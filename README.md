@@ -45,7 +45,7 @@ jupyter notebook
 ### 2. Abrir el notebook
 
 Abre `proyecto.ipynb` y ejecuta todas las celdas en orden.
-
+```
 `results.csv` — base original
 `datos_prdi_temp.csv` — necesario para el sistema de predicción
 `df2_datos_tratados_base2.csv` — necesario para los modelos
@@ -54,6 +54,7 @@ Abre `proyecto.ipynb` y ejecuta todas las celdas en orden.
 `worldcities.csv` — datos de ciudades originales
 `sedes_wc2026.json` — sedes del Mundial
 `lista_torneos.txt y torneos.txt` — referencia de torneos
+```
 
 > Los modelos ya están entrenados y guardados como `.pkl`. Solo necesitas ejecutar las secciones **sedes_wc2026** - **categorizar_torneo** - **Sistema de predicción** para hacer predicciones.
 
@@ -73,6 +74,7 @@ predecir_partido(
 El sistema obtiene automáticamente el clima de esa fecha y lugar, el ELO y forma reciente de ambos equipos, y devuelve:
 
 ==================================================
+```
 Argentina vs Nigeria
 Miami | 2026-06-15 | FIFA World Cup
 📊 Probabilidades:
@@ -81,6 +83,7 @@ Miami | 2026-06-15 | FIFA World Cup
 ✈️  Nigeria gana:   16.6%
 ⚽ Marcador estimado:
 Argentina 2 - 1 Nigeria
+```
 
 ### 4. Sedes disponibles
 
