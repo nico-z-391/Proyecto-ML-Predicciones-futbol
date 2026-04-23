@@ -1,0 +1,116 @@
+tournament
+Friendly                                      8283
+FIFA World Cup qualification                  5762
+UEFA Euro qualification                       1514
+African Cup of Nations qualification          1403
+UEFA Nations League                            656
+Gold Cup                                       632
+African Cup of Nations                         525
+AFC Asian Cup qualification                    506
+CONCACAF Nations League                        428
+FIFA World Cup                                 390
+CECAFA Cup                                     337
+COSAFA Cup                                     324
+Copa América                                   293
+UEFA Euro                                      277
+CFU Caribbean Cup qualification                277
+AFC Asian Cup                                  255
+Island Games                                   250
+AFF Championship                               246
+Gulf Cup                                       189
+SAFF Cup                                       131
+EAFF Championship                              115
+WAFF Championship                              114
+UNCAF Cup                                      110
+AFC Challenge Cup                               98
+CFU Caribbean Cup                               98
+Confederations Cup                              97
+Arab Cup                                        92
+AFC Challenge Cup qualification                 90
+Oceania Nations Cup                             89
+CONIFA World Football Cup                       89
+King's Cup                                      78
+Gold Cup qualification                          76
+Indian Ocean Island Games                       68
+AFF Championship qualification                  66
+CONCACAF Nations League qualification           60
+Pacific Games                                   54
+Cyprus International Tournament                 53
+Viva World Cup                                  51
+CONIFA European Football Cup                    48
+Muratti Vase                                    44
+Kirin Cup                                       43
+South Pacific Games                             40
+Baltic Cup                                      39
+Nehru Cup                                       33
+Merdeka Tournament                              33
+Coupe de l'Outre-Mer                            32
+Amílcar Cabral Cup                              30
+ASEAN Championship                              25
+FIFA Series                                     24
+Kirin Challenge Cup                             24
+MSG Prime Minister's Cup                        23
+Prime Minister's Cup                            22
+Malta International Tournament                  22
+Arab Cup qualification                          21
+CONCACAF Series                                 19
+Inter Games                                     18
+ABCS Tournament                                 18
+Intercontinental Cup                            17
+Windward Islands Tournament                     16
+Millennium Cup                                  15
+ELF Cup                                         15
+Nile Basin Tournament                           14
+Oceania Nations Cup qualification               13
+COSAFA Cup qualification                        12
+Lunar New Year Cup                              12
+Pacific Mini Games                              12
+Melanesia Cup                                   10
+Nordic Championship                             10
+CAFA Nations Cup                                10
+SKN Football Festival                           10
+FIFI Wild Cup                                   10
+VFF Cup                                          9
+USA Cup                                          9
+Superclásico de las Américas                     9
+Unity Cup                                        8
+United Arab Emirates Friendship Tournament       7
+Mahinda Rajapaksa Cup                            7
+Mapinduzi Cup                                    7
+Tri Nation Tournament                            7
+Nations Cup                                      6
+EAFF Championship qualification                  5
+Tynwald Hill Tournament                          5
+Mauritius Four Nations Cup                       5
+Jordan International Tournament                  4
+Corsica Cup                                      4
+CONIFA Africa Football Cup                       4
+Al Ain International Cup                         4
+CONIFA Asia Cup                                  4
+Navruz Cup                                       4
+OSN Cup                                          4
+Dragon Cup                                       4
+Afro-Asian Games                                 4
+Copa América qualification                       4
+King Hassan II Tournament                        4
+Copa del Pacífico                                4
+Canadian Shield                                  4
+Three Nations Cup                                3
+Soccer Ashes                                     3
+CONIFA South America Football Cup                3
+World Unity Cup                                  3
+Tri-Nations Series                               3
+Outrigger Challenge Cup                          3
+Hungary Heritage Cup                             3
+CONIFA World Football Cup qualification          3
+Niamh Challenge Cup                              2
+Copa Paz del Chaco                               2
+ASEAN Championship qualification                 2
+Cup of Ancient Civilizations                     2
+TIFOCO Tournament                                1
+The Other Final                                  1
+CONMEBOL–UEFA Cup of Champions                   1
+Benedikt Fontana Cup                             1
+South Asian Super Cup                            1
+ConIFA Challenger Cup                            1
+Copa Confraternidad                              1

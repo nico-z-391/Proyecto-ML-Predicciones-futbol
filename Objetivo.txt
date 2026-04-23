@@ -1,0 +1,40 @@
+1. El Pilar Deportivo (La Base)
+
+    Resultados Históricos: Goles local/visitante, sede y fecha (results.csv).
+
+    Factor Neutral: Identificar si el partido es en campo neutral (fundamental para el Mundial).
+
+    Importancia del Torneo: Asignar un peso diferente si es un amistoso, eliminatoria o fase final de un torneo grande.
+
+2. El Pilar de Fuerza (Ranking ELO)
+
+    ELO Dinámico: Los puntos de cada equipo justo antes del pitazo inicial.
+
+    ELO_diff: La diferencia de nivel entre ambos.
+
+    Racha (Forma Reciente): Puntos y goles en los últimos 5 partidos. Esto mide el "momento" anímico y futbolístico.
+
+3. El Pilar Ambiental (El Contexto Físico)
+
+    Clima: Temperatura promedio (tavg), humedad (rhum) y velocidad del viento (wspd).
+
+    Estado Atmosférico: Si hay lluvia (prcp), nieve (snow) o cielo despejado (coco).
+
+    Presión/Altitud: Factor crítico para sedes con altura que agotan el oxígeno de los jugadores.
+
+    Distancia de Viaje: Calcular cuántos kilómetros recorrió el equipo visitante desde su país de origen hasta las coordenadas del partido.
+
+4. El Pilar de Probabilidades y Valor (ML Avanzado)
+
+    Output Multiclase: Probabilidades exactas para: % Victoria Local | % Empate | % Victoria Visitante.
+
+    Comparación de Valor: Cruce de tus porcentajes con las Cuotas de Apuestas (Odds) para encontrar dónde el mercado está equivocado.
+
+    Métricas de Calidad: Apuntar a una estabilidad de acierto entre 55% y 60%.
+
+Arquitectura de Datos del Proyecto
+¿Qué logramos con todo esto?
+
+Tu modelo dejará de decir "Gana Argentina porque es mejor" y empezará a razonar:
+
+    "Argentina tiene 62% de probabilidad de ganar porque su ELO es +200 vs el rival, pero la humedad del 85% y la racha goleadora del rival reducen su ventaja real en un 4%."
